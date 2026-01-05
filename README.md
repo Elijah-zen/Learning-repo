@@ -1,2 +1,3 @@
 # Learning-repo
-Learning github
+Learning github..
+My name is Manta 
